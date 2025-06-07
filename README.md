@@ -25,3 +25,7 @@ On click of the Submit the product will be automatically updated in the database
 
 On click of the Cart we can see all the products in the Shopping Bag
 ![image](https://github.com/user-attachments/assets/3e80fc2e-8b83-418e-bef4-db9a3093f40a)
+
+If the BackEnd is not connected to the FrontEnd the below page will be shown
+![image](https://github.com/user-attachments/assets/6111355b-db5e-4474-958a-43117699aa9f)
+
